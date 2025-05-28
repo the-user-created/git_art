@@ -1,0 +1,9 @@
+*
+
+.idea
+
+# Except for the following files
+!.gitignore
+!git_art.py
+!creeper.png
+!README.md
